@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Laravel</title>
+        <title>Joshua</title>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
@@ -64,7 +64,7 @@
                 <div class="content">
                     <div class="title">Olatunji joshua</div>
                 </div>
-                <div class="content"> <p>My name is joshua kayode, 
+                <div class="content"> <h4>My name is joshua kayode, 
                 i strongly believe in the development and advancement of 
                 the collective intelligence of the human race, the sum total 
                 of all intelligent mind that have been here on the planet up till now,
@@ -77,7 +77,7 @@
                 This area of interest has a strong pull on me because i see them as
                  providing a powerful tool that empowers the mind, seeing the future
                   from an optimistic position, and allowing us to take control of our 
-                  own destiny as a specie. </p> </div>
+                  own destiny as a specie. </h4> </div>
                 <div class="links flex-center">
                         <a href="#">blog</a>
                         <a href="#">Projects</a>
